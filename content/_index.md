@@ -1,23 +1,35 @@
 ---
-title : "Email Receiving with Amazon SES & S3 Malware Scanning"
-date :  "`r Sys.Date()`" 
-weight : 1 
-chapter : false
+title: "Internship Report"
+date: 2024-01-01
+weight: 1
+chapter: false
 ---
-# Email Receiving with Amazon SES & S3 Malware Scanning via Trend Micro Cloud One
+# Internship Report
+### Student Information:
+&emsp; **Full Name:** Nguyễn Viết An
 
-### Overall
-In this lab, we will explore the process of receiving emails using **[Amazon Simple Email Service](https://aws.amazon.com/ses/)** and storing them in **[Amazon S3](https://aws.amazon.com/vi/s3/)**. Additionally, we will set up a malware scanning workflow for email attachments using **[Trend Micro Cloud One](http://www.trendmicro.com/aws)**.
+&emsp; **Phone Number:** 0906629907
 
-![ConnectPrivate](/images/diagram.png) 
+&emsp; **Email:** nguyenvietan891@gmail.com
 
-### Objectives
+&emsp; **University:** Ho Chi Minh City University of Technology and Education - HUTECH
 
-1. **Setup Amazon SES Receiving Email** - Configure SES to receive emails from a verified domain (identity).
-2. **Store emails in Amazon S3** - Set up an S3 bucket to store the received emails.
-3. **Extract email's attachments using Lambda Function** - Configure S3 event trigger Lambda Function to process attachments.
-4. **Scan for Malware with Trend Micro Cloud One** - Integrate a malware scanning solution to protect data from potential threats.
+&emsp; **Major:** Information Technology
 
-### Content
+&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
-{{% children  %}}
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
+
+&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+
+![Your profile picture](https://res.cloudinary.com/dqblg6ont/image/upload/v1778399184/avatar_uyogic.jpg)
+
+### Report Content
+
+1.  [Worklog](1-Worklog/)
+2.  [Proposal](2-Proposal/)
+3.  [BlogsPosted](3-BlogsPosted/)
+4.  [Events Participated](4-EventParticipated/)
+5.  [Workshop](5-Workshop/)
+6.  [Self-evaluation](6-Self-evaluation/)
+7.  [Sharing and Feedback](7-Feedback/)

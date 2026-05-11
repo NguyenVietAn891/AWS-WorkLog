@@ -1,25 +1,37 @@
 ---
-title : "Nhận Email với Amazon SES & Quét Malware trên S3"
-date :  "`r Sys.Date()`" 
-weight : 1 
-chapter : false
+title: "Báo cáo thực tập"
+date: 2024-01-01
+weight: 1
+chapter: false
 ---
-# Nhận Email với Amazon SES & Quét Malware trên S3 bằng Trend Micro Cloud One
+# Báo cáo thực tập
+### Thông tin sinh viên:
+&emsp; **Họ và tên:** Nguyễn Viết An
 
-### Tổng quan
+&emsp; **Số điện thoại:** 0906629907
 
-Trong bài lab này, chúng ta sẽ khám phá cách thức nhận email sử dụng **[Amazon Simple Email Service](https://aws.amazon.com/vi/ses/)** và lưu trữ chúng trên **[Amazon S3](https://aws.amazon.com/vi/s3/)**. Bên cạnh đó, chúng ta sẽ thiết lập quy trình quét malware cho các tệp đính kèm email bằng giải pháp **[Trend Micro Cloud One](http://www.trendmicro.com/aws)**.
+&emsp; **Email:** nguyenvietan891@gmail.com
 
-![Diagram](/images/diagram.png) 
+&emsp; **Trường:** Đại học Công nghệ Thành phố Hồ Chí Minh - HUTECH
 
-### Mục tiêu
+&emsp; **Ngành:** Công nghệ thông tin
 
-1. **Thiết lập Amazon SES Receiving Email** - Tạo và cấu hình dịch vụ SES để nhận email từ domain đã xác minh.
-2. **Lưu trữ và xử lý Email trên S3** -  Thiết lập S3 bucket để lưu trữ các email nhận được.
-3. **Extract tệp đính kèm bằng Lambda Function** - Thiết lập S3 event để trigger các Lambda Function xử lý các tệp đính kèm.
-4. **Quét malware với Trend Micro Cloud One** - Tích hợp dịch vụ quét malware để bảo vệ dữ liệu khỏi các mối đe doạ tiềm ẩn. 
+&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
+
+&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
+
+&emsp; **Thời gian thực tập:** Từ ngày 04/05/2026 đến ngày 04/08/2026
+
+![Ảnh đại diện của bạn](https://res.cloudinary.com/dqblg6ont/image/upload/v1778399184/avatar_uyogic.jpg)
 
 
-### Nội dung
 
-{{% children  %}}
+### Nội dung báo cáo
+
+1.  [Worklog](1-Worklog/)
+2.  [Proposal](2-Proposal/)
+3.  [Các bài blogs đã đăng](3-BlogsPosted/)
+4.  [Các events đã tham gia](4-EventParticipated/)
+5.  [Workshop](5-Workshop/)
+6.  [Tự đánh giá](6-Self-evaluation/)
+7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
