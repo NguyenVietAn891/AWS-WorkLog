@@ -14,7 +14,7 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations <br> - Attend group meeting and present ideas for the project | 11/05/2026 | 11/05/2026 | |
+| 2   | - Attend group meeting and present ideas for the project | 11/05/2026 | 11/05/2026 | |
 | 3   | - Learn about AWS IAM (Identity and Access Management) <br> - **Practice:** <br>&emsp; + Create and manage IAM Users and IAM Groups <br>&emsp; + Create IAM Roles and configure permissions <br>&emsp; + Practice Switch Role between accounts | 12/05/2026 | 12/05/2026 | <https://000002.awsstudygroup.com/> |
 | 4   | - Learn about Amazon VPC and AWS Site-to-Site VPN <br> - **Practice:** <br>&emsp; + Configure VPC Security Groups and Network ACLs <br>&emsp; + Deploy EC2 instances inside a VPC <br>&emsp; + Configure AWS Site-to-Site VPN connection | 13/05/2026 | 13/05/2026 | <https://000003.awsstudygroup.com/> |
 | 5   | - Learn about Amazon EC2 (Elastic Compute Cloud) <br> - **Practice:** <br>&emsp; + Connect and launch EC2 instances <br>&emsp; + Deploy the AWS User Management application (CRUD) <br>&emsp; + Practice on both Windows and Linux environments | 14/05/2026 | 14/05/2026 | <https://000004.awsstudygroup.com/> |

@@ -14,7 +14,7 @@ pre: " <b> 1.2. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập <br> - Tham gia họp nhóm và trình bày ý kiến cho dự án | 11/05/2026 | 11/05/2026 | |
+| 2   | - Tham gia họp nhóm và trình bày ý kiến cho dự án | 11/05/2026 | 11/05/2026 | |
 | 3   | - Tìm hiểu về AWS IAM (Identity and Access Management) <br> - **Thực hành:** <br>&emsp; + Tạo và quản lý IAM User, IAM Group <br>&emsp; + Tạo IAM Role và cấu hình quyền <br>&emsp; + Thực hiện Switch Role giữa các tài khoản | 12/05/2026 | 12/05/2026 | <https://000002.awsstudygroup.com/> |
 | 4   | - Tìm hiểu về Amazon VPC và AWS Site-to-Site VPN <br> - **Thực hành:** <br>&emsp; + Cấu hình VPC Security Groups và Network ACLs <br>&emsp; + Triển khai EC2 instance trong VPC <br>&emsp; + Cấu hình kết nối AWS Site-to-Site VPN | 13/05/2026 | 13/05/2026 | <https://000003.awsstudygroup.com/> |
 | 5   | - Tìm hiểu về Amazon EC2 (Elastic Compute Cloud) <br> - **Thực hành:** <br>&emsp; + Kết nối và khởi chạy EC2 instance <br>&emsp; + Triển khai ứng dụng AWS User Management (CRUD) <br>&emsp; + Thực hành trên cả môi trường Windows và Linux | 14/05/2026 | 14/05/2026 | <https://000004.awsstudygroup.com/> |
