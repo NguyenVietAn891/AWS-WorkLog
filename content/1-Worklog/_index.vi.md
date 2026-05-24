@@ -18,7 +18,7 @@ Dưới đây là chi tiết công việc của từng tuần:
 
 **Tuần 2:** [Tìm hiểu AWS IAM, Amazon VPC và Amazon EC2](1.2-week2/)
 
-**Tuần 3:** [Đang cập nhật...](1.3-week3/)
+**Tuần 3:** [Phát triển giao diện frontend, tối ưu UI/UX và tích hợp AWS Cognito](1.3-week3/)
 
 **Tuần 4:** [Đang cập nhật...](1.4-week4/)
 

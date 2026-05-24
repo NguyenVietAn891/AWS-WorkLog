@@ -18,7 +18,7 @@ Below is the detailed breakdown of my weekly tasks:
 
 **Week 2:** [Understanding AWS IAM, Amazon VPC, and Amazon EC2](1.2-week2/)
 
-**Week 3:** [To be updated...](1.3-week3/)
+**Week 3:** [Frontend development, UI/UX optimization, and AWS Cognito integration](1.3-week3/)
 
 **Week 4:** [To be updated...](1.4-week4/)
 
