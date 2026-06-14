@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2024-01-01
+date: 2026-06-07
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -16,10 +16,10 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tham gia họp nhóm, trao đổi ý tưởng phát triển sản phẩm và đóng góp giải pháp cho các tính năng mới. | 06/07/2026 | 06/07/2026 | |
-| 4 | - Thiết kế và phát triển giao diện hệ thống nhiệm vụ, theo dõi tiến độ và nhận thưởng trên ứng dụng. | 01/07/2026 | 01/07/2026 | |
-| 6 | - Hoàn thiện các thành phần UI, cải thiện trải nghiệm người dùng và tối ưu luồng tương tác. <br> - Tối ưu hiệu năng ứng dụng Electron, rà soát và điều chỉnh các chức năng nhằm nâng cao độ ổn định khi sử dụng. | 03/07/2026 | 03/07/2026 | |
-| 7 | - Tìm hiểu và trải nghiệm một số dịch vụ, công cụ liên quan đến AWS để hỗ trợ định hướng triển khai hệ thống trong tương lai. | 04/07/2026 | 04/07/2026 | |
+| 2 | - Tham gia họp nhóm, trao đổi ý tưởng phát triển sản phẩm và đóng góp giải pháp cho các tính năng mới. | 01/06/2026 | 01/06/2026 | |
+| 4 | - Thiết kế và phát triển giao diện hệ thống nhiệm vụ, theo dõi tiến độ và nhận thưởng trên ứng dụng. | 03/06/2026 | 03/06/2026 | |
+| 6 | - Hoàn thiện các thành phần UI, cải thiện trải nghiệm người dùng và tối ưu luồng tương tác. <br> - Tối ưu hiệu năng ứng dụng Electron, rà soát và điều chỉnh các chức năng nhằm nâng cao độ ổn định khi sử dụng. | 05/06/2026 | 05/06/2026 | |
+| 7 | - Tìm hiểu và trải nghiệm một số dịch vụ, công cụ liên quan đến AWS để hỗ trợ định hướng triển khai hệ thống trong tương lai. | 06/06/2026 | 06/06/2026 | |
 
 
 ### Kết quả đạt được tuần 5:

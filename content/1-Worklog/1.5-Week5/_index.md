@@ -1,6 +1,6 @@
 ---
 title: "Week 5 Worklog"
-date: 2024-01-01
+date: 2026-06-07
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -15,10 +15,10 @@ pre: " <b> 1.5. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Participate in team meetings, exchange product development ideas, and contribute solutions for new features. | 06/07/2026 | 06/07/2026 | |
-| 4 | - Design and develop the interface for the task system, progress tracking, and reward reception on the application. | 01/07/2026 | 01/07/2026 | |
-| 6 | - Complete UI components, improve user experience, and optimize interaction flows. <br> - Optimize Electron application performance, review and adjust functions to enhance stability during use. | 03/07/2026 | 03/07/2026 | |
-| 7 | - Explore and experience some AWS-related services and tools to support future system deployment orientation. | 04/07/2026 | 04/07/2026 | |
+| 2 | - Participate in team meetings, exchange product development ideas, and contribute solutions for new features. | 01/06/2026 | 01/06/2026 | |
+| 4 | - Design and develop the interface for the task system, progress tracking, and reward reception on the application. | 03/06/2026 | 03/06/2026 | |
+| 6 | - Complete UI components, improve user experience, and optimize interaction flows. <br> - Optimize Electron application performance, review and adjust functions to enhance stability during use. | 05/06/2026 | 05/06/2026 | |
+| 7 | - Explore and experience some AWS-related services and tools to support future system deployment orientation. | 06/06/2026 | 06/06/2026 | |
 
 
 ### Week 5 Achievements:

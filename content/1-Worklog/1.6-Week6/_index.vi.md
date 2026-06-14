@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 6"
-date: 2024-01-01
+date: 2026-06-14
 weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
@@ -12,47 +12,29 @@ pre: " <b> 1.6. </b> "
 
 ### Mục tiêu tuần 6:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Nghiên cứu và thực hành kiến trúc Serverless trên AWS.
+* Hiểu cách kết hợp các dịch vụ Lambda, S3, DynamoDB, API Gateway và SAM.
+* Tìm hiểu về bảo mật, giám sát và CI/CD cho ứng dụng Serverless.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Serverless - Lambda tương tác với S3 và DynamoDB | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Serverless - Hướng dẫn viết Frontend gọi API Gateway | 09/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Serverless - Triển khai ứng dụng trên SAM <br> - Serverless - Xác thực với Amazon Cognito | 10/06/2026 | 10/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Serverless - Thiết lập trang website static có SSL trên S3 <br> - Serverless - Xử lý đơn hàng với SQS và SNS | 11/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Serverless - CI/CD với AWS CodePipeline | 12/06/2026 | 12/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7 | - Serverless - Giám sát Lambda với CloudWatch và X-Ray | 13/06/2026 | 13/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| CN | - Serverless - Giới thiệu AWS AppSync | 14/06/2026 | 14/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 6:
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Hiểu và thực hành thành công việc sử dụng Lambda function để tương tác với S3 và DynamoDB.
+* Xây dựng được Frontend cơ bản gọi API thông qua API Gateway.
+* Nắm vững quy trình triển khai ứng dụng Serverless bằng AWS SAM (Serverless Application Model).
+* Cấu hình thành công xác thực người dùng bằng Amazon Cognito.
+* Thiết lập được website tĩnh trên S3 với SSL/TLS.
+* Hiểu luồng xử lý bất đồng bộ sử dụng SQS và SNS cho bài toán xử lý đơn hàng.
+* Triển khai được quy trình CI/CD tự động cho mã nguồn Lambda bằng CodePipeline.
+* Sử dụng CloudWatch và X-Ray để giám sát, truy vết hiệu năng và debug lỗi cho ứng dụng Serverless.
+* Có cái nhìn tổng quan về AWS AppSync và ứng dụng của GraphQL trong kiến trúc không máy chủ.
