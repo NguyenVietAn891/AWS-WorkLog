@@ -1,6 +1,6 @@
 ---
 title: "Week 7 Worklog"
-date: 2026-06-21
+date: 2026-06-15
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -32,3 +32,4 @@ pre: " <b> 1.7. </b> "
 * Deployed applications on Amazon Lightsail Container and Amazon EKS.
 * Understood the process of migrating from Monolith to Microservices with Docker and Fargate.
 * Successfully built automated CI/CD pipelines using CodePipeline integrated with GitHub.
+

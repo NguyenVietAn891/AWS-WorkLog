@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 7"
-date: 2026-06-21
+date: 2026-06-15
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -32,5 +32,4 @@ pre: " <b> 1.7. </b> "
 * Triển khai được ứng dụng trên Amazon Lightsail Container và Amazon EKS.
 * Hiểu quy trình chuyển đổi từ Monolith sang Microservices với Docker và Fargate.
 * Xây dựng thành công các pipeline CI/CD tự động bằng CodePipeline tích hợp với GitHub.
-
 
