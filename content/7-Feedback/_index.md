@@ -6,42 +6,48 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
-
 ### Overall Evaluation
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment is very dynamic, open, and comfortable. In particular, the flexible working hours policy is a major plus, creating favorable conditions for me to proactively manage my work and optimize personal productivity.
 
 **2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+The mentors and administrative team (team admin) were always extremely enthusiastic, prompt, and dedicated in supporting me. Their detailed, easy-to-understand guidance helped me resolve difficulties in a timely manner and feel more confident throughout the project implementation.
 
 **3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+The internship tasks closely aligned with the specialized knowledge I acquired at university, while expanding my understanding of the Cloud Computing field through hands-on experience and applying modern technologies to real-world projects.
 
 **4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+The internship provided me with many valuable practical skills, notably direct experience in operating, deploying, and managing services within the AWS ecosystem. In addition to technical expertise, my communication, task coordination, and teamwork skills improved significantly.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Culture & Team Spirit**  
+The team spirit is highly cohesive, positive, and enthusiastic. Whenever issues or complex tasks arose, all team members proactively collaborated and discussed openly to find optimal solutions and resolve them quickly.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
-
----
-
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+**6. Policies / Benefits for Interns**  
+I am completely satisfied with the current policies and benefits of the program and have no additional suggestions or requests regarding support allowances.
 
 ---
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+### Other Questions
+
+- **What were you most satisfied with during your internship?**  
+What satisfied me the most was the flexibility of working hours, which gave me a sense of freedom, proactiveness, and comfort while completing my tasks.
+
+- **What do you think the company needs to improve for future interns?**  
+The internship program has been structured and operated very professionally and thoroughly. At present, I feel the program is well-developed and see no areas that require changes.
+
+- **If recommending to friends, would you advise them to intern here? Why?**  
+I would definitely recommend it to my friends. This is a professional yet open working environment with flexible working hours, making it an ideal place for students looking to gain practical experience, work with real-world technologies, and grow professionally.
+
+---
+
+### Proposals & Desires
+
+- **Do you have any suggestions to improve the internship experience?**  
+Currently, I am very satisfied and have no further suggestions for improvement.
+
+- **Would you like to continue with this program in the future?**  
+If given the opportunity in the future, I would be very eager to continue working alongside the mentors and admin team in upcoming projects or programs.
+
+- **Other feedback (free share):**  
+I would like to express my sincere gratitude to the organizers, mentors, and team admin for always creating great conditions and supporting me throughout my internship journey.

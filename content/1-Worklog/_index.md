@@ -20,20 +20,20 @@ Below is the detailed breakdown of my weekly tasks:
 
 **Week 3:** [Frontend development, UI/UX optimization, and AWS Cognito integration](1.3-week3/)
 
-**Week 4:** [To be updated...](1.4-week4/)
+**Week 4:** [User authentication finalization, research on Serverless architecture (API Gateway, Lambda)](1.4-week4/)
 
-**Week 5:** [To be updated...](1.5-week5/)
+**Week 5:** [Task system UI development, Electron app performance optimization, and AWS services exploration](1.5-week5/)
 
-**Week 6:** [To be updated...](1.6-week6/)
+**Week 6:** [Hands-on Serverless architecture (Lambda, S3, DynamoDB, SAM, Cognito, CI/CD)](1.6-week6/)
 
-**Week 7:** [To be updated...](1.7-week7/)
+**Week 7:** [Task automation with Systems Manager, IaC (CloudFormation), and Container solutions (EKS, Fargate)](1.7-week7/)
 
-**Week 8:** [To be updated...](1.8-week8/)
+**Week 8:** [AWS OpenSearch cluster setup, automated user data indexing, and project management](1.8-week8/)
 
-**Week 9:** [To be updated...](1.9-week9/)
+**Week 9:** [AWS infrastructure troubleshooting, OpenSearch model update, Gacha logic & currency exchange](1.9-week9/)
 
-**Week 10:** [To be updated...](1.10-week10/)
+**Week 10:** [Shop feature development, item & Gacha effects, Friends Widget, Rank UI, and AI Read file](1.10-week10/)
 
-**Week 11:** [To be updated...](1.11-week11/)
+**Week 11:** [Avatar, Leaderboard, Minigame, Bedrock AI assistant, Pet system, and Electron app packaging](1.11-week11/)
 
 **Week 12:** [To be updated...](1.12-week12/)
